@@ -1,0 +1,9 @@
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\bin\Debug\PluggableConsoleApplication.exe
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\bin\Debug\PluggableConsoleApplication.pdb
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\bin\Debug\PluggableCoreLibrary.dll
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\bin\Debug\PluggableCoreLibrary.pdb
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\obj\Debug\PluggableConsoleApplication.csprojAssemblyReference.cache
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\obj\Debug\PluggableConsoleApplication.csproj.CoreCompileInputs.cache
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\obj\Debug\PluggableConsoleApplication.csproj.CopyComplete
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\obj\Debug\PluggableConsoleApplication.exe
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableHostApplication\obj\Debug\PluggableConsoleApplication.pdb

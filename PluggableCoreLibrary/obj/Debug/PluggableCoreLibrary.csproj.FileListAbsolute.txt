@@ -1,0 +1,6 @@
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableCoreLibrary\bin\Debug\PluggableCoreLibrary.dll
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableCoreLibrary\bin\Debug\PluggableCoreLibrary.pdb
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableCoreLibrary\obj\Debug\PluggableCoreLibrary.csprojAssemblyReference.cache
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableCoreLibrary\obj\Debug\PluggableCoreLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableCoreLibrary\obj\Debug\PluggableCoreLibrary.dll
+C:\Users\bkottedi\Documents\Visual Studio 2017\Projects\PluggableHostApplication\PluggableCoreLibrary\obj\Debug\PluggableCoreLibrary.pdb
